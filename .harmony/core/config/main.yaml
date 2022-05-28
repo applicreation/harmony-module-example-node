@@ -1,0 +1,6 @@
+---
+
+name: Example node module
+modules:
+  - name: Example (Node)
+    url: /example-node
