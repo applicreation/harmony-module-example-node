@@ -31,10 +31,8 @@ services:
 # ./.harmony/core/config.yaml
 ---
 
-name: Example (Node)
 modules:
-  - name: Example (Node)
-    url: /example-node
+  - id: example-node
 ```
 
 ## Development
