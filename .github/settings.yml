@@ -3,7 +3,7 @@
 repository:
   name: harmony-module-example-node
   description: Harmony example Node module
-  homepage: https://github.com/lickdltd/harmony-module-example-node
+  homepage: https://github.com/applicreation/harmony-module-example-node
   topics: harmony, module, example, node
   private: false
   has_issues: true
